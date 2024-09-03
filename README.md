@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# GenAI-Powered-ScienceSage
-=======
-# GenAI_Powered_ScienceSage
->>>>>>> c327cffab65e4eab2a8acb3284255cfe50ae15f8
-Generate Research Report, Chat with your Documents and Chat with Anything
+# GenAI Powered ScienceSage
+
+ScienceSage web application enables researchers to Generate Research Report, Chat with their Documents and Chat with Anything. 
+
+Data is in the File_Dir and the Rag_codes.ipynb contains all the codes. 
