@@ -1,4 +1,4 @@
-# GenAI Powered ScienceSage
+# GenAI Powered ScienceSage Web Application
 
 ScienceSage web application enables researchers to Generate Research Report, Chat with their Documents and Chat with Anything. 
 
